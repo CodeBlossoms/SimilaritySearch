@@ -1,0 +1,404 @@
+Hospital_pk:  150034
+	(a) 1  Candidate hospital_pk:  131312
+	(b) Jaccard similarity with the target hospital:  0.3157894736842105
+	(c) First 10 values of signature matrix:  [79, 153, 54, 86, 12, 10, 36, 161, 289, 23] 
+
+	(a) 2  Candidate hospital_pk:  050739
+	(b) Jaccard similarity with the target hospital:  0.22950819672131148
+	(c) First 10 values of signature matrix:  [68, 36, 337, 80, 82, 60, 173, 107, 63, 250] 
+
+	(a) 3  Candidate hospital_pk:  330194
+	(b) Jaccard similarity with the target hospital:  0.29838709677419356
+	(c) First 10 values of signature matrix:  [33, 49, 5, 133, 9, 491, 183, 58, 83, 39] 
+
+	(a) 4  Candidate hospital_pk:  100051
+	(b) Jaccard similarity with the target hospital:  0.25
+	(c) First 10 values of signature matrix:  [1, 38, 278, 132, 38, 15, 52, 209, 63, 23] 
+
+	(a) 5  Candidate hospital_pk:  451366
+	(b) Jaccard similarity with the target hospital:  0.23622047244094488
+	(c) First 10 values of signature matrix:  [66, 41, 123, 3, 59, 21, 68, 94, 2, 11] 
+
+	(a) 6  Candidate hospital_pk:  400125
+	(b) Jaccard similarity with the target hospital:  0.2459016393442623
+	(c) First 10 values of signature matrix:  [38, 528, 43, 4, 79, 48, 134, 47, 72, 200] 
+
+	(a) 7  Candidate hospital_pk:  140103
+	(b) Jaccard similarity with the target hospital:  0.32432432432432434
+	(c) First 10 values of signature matrix:  [1, 38, 5, 70, 33, 93, 31, 72, 88, 50] 
+
+	(a) 8  Candidate hospital_pk:  421301
+	(b) Jaccard similarity with the target hospital:  0.2396694214876033
+	(c) First 10 values of signature matrix:  [1, 87, 185, 16, 162, 8, 108, 42, 503, 26] 
+
+	(a) 9  Candidate hospital_pk:  650003
+	(b) Jaccard similarity with the target hospital:  0.25203252032520324
+	(c) First 10 values of signature matrix:  [232, 101, 152, 103, 21, 135, 155, 92, 11, 162] 
+
+	(a) 10  Candidate hospital_pk:  050152
+	(b) Jaccard similarity with the target hospital:  0.3211009174311927
+	(c) First 10 values of signature matrix:  [17, 70, 122, 85, 3, 1, 41, 116, 42, 109] 
+
+	(a) 11  Candidate hospital_pk:  440009
+	(b) Jaccard similarity with the target hospital:  0.1875
+	(c) First 10 values of signature matrix:  [51, 16, 69, 259, 132, 8, 226, 309, 247, 40] 
+
+	(a) 12  Candidate hospital_pk:  420078
+	(b) Jaccard similarity with the target hospital:  0.19696969696969696
+	(c) First 10 values of signature matrix:  [270, 3, 279, 141, 4, 123, 22, 193, 54, 409] 
+
+	(a) 13  Candidate hospital_pk:  110045
+	(b) Jaccard similarity with the target hospital:  0.20491803278688525
+	(c) First 10 values of signature matrix:  [70, 60, 109, 52, 1, 52, 60, 76, 46, 17] 
+
+	(a) 14  Candidate hospital_pk:  500025
+	(b) Jaccard similarity with the target hospital:  0.27586206896551724
+	(c) First 10 values of signature matrix:  [12, 2, 33, 87, 94, 96, 11, 8, 52, 8] 
+
+	(a) 15  Candidate hospital_pk:  450176
+	(b) Jaccard similarity with the target hospital:  0.18705035971223022
+	(c) First 10 values of signature matrix:  [38, 65, 198, 156, 450, 100, 50, 15, 157, 208] 
+
+	(a) 16  Candidate hospital_pk:  300014
+	(b) Jaccard similarity with the target hospital:  0.2204724409448819
+	(c) First 10 values of signature matrix:  [659, 102, 136, 9, 255, 5, 42, 77, 61, 87] 
+
+	(a) 17  Candidate hospital_pk:  241322
+	(b) Jaccard similarity with the target hospital:  0.2109375
+	(c) First 10 values of signature matrix:  [66, 56, 117, 42, 85, 50, 48, 210, 241, 132] 
+
+	(a) 18  Candidate hospital_pk:  450324
+	(b) Jaccard similarity with the target hospital:  0.32432432432432434
+	(c) First 10 values of signature matrix:  [51, 111, 45, 27, 20, 108, 20, 9, 37, 26] 
+
+	(a) 19  Candidate hospital_pk:  450678
+	(b) Jaccard similarity with the target hospital:  0.208
+	(c) First 10 values of signature matrix:  [15, 76, 15, 11, 68, 31, 49, 232, 135, 29] 
+
+	(a) 20  Candidate hospital_pk:  161309
+	(b) Jaccard similarity with the target hospital:  0.2689075630252101
+	(c) First 10 values of signature matrix:  [78, 58, 80, 74, 37, 83, 94, 41, 7, 194] 
+
+Hospital_pk:  050739
+	(a) 1  Candidate hospital_pk:  131312
+	(b) Jaccard similarity with the target hospital:  0.21212121212121213
+	(c) First 10 values of signature matrix:  [29, 50, 184, 7, 127, 48, 8, 78, 35, 7] 
+
+	(a) 2  Candidate hospital_pk:  150034
+	(b) Jaccard similarity with the target hospital:  0.256
+	(c) First 10 values of signature matrix:  [44, 70, 82, 47, 9, 17, 385, 383, 20, 98] 
+
+	(a) 3  Candidate hospital_pk:  100051
+	(b) Jaccard similarity with the target hospital:  0.19230769230769232
+	(c) First 10 values of signature matrix:  [3, 156, 127, 143, 19, 14, 51, 30, 40, 16] 
+
+	(a) 4  Candidate hospital_pk:  451366
+	(b) Jaccard similarity with the target hospital:  0.22556390977443608
+	(c) First 10 values of signature matrix:  [103, 80, 88, 70, 67, 2, 108, 33, 208, 0] 
+
+	(a) 5  Candidate hospital_pk:  400125
+	(b) Jaccard similarity with the target hospital:  0.1956521739130435
+	(c) First 10 values of signature matrix:  [389, 19, 209, 391, 63, 157, 62, 486, 38, 68] 
+
+	(a) 6  Candidate hospital_pk:  140103
+	(b) Jaccard similarity with the target hospital:  0.20610687022900764
+	(c) First 10 values of signature matrix:  [25, 11, 22, 53, 5, 62, 70, 100, 64, 3] 
+
+	(a) 7  Candidate hospital_pk:  421301
+	(b) Jaccard similarity with the target hospital:  0.19708029197080293
+	(c) First 10 values of signature matrix:  [4, 293, 40, 152, 3, 229, 44, 45, 19, 13] 
+
+	(a) 8  Candidate hospital_pk:  650003
+	(b) Jaccard similarity with the target hospital:  0.19402985074626866
+	(c) First 10 values of signature matrix:  [226, 145, 44, 23, 22, 57, 245, 4, 234, 225] 
+
+	(a) 9  Candidate hospital_pk:  050152
+	(b) Jaccard similarity with the target hospital:  0.1956521739130435
+	(c) First 10 values of signature matrix:  [120, 47, 40, 59, 165, 24, 287, 3, 49, 12] 
+
+	(a) 10  Candidate hospital_pk:  440009
+	(b) Jaccard similarity with the target hospital:  0.18705035971223022
+	(c) First 10 values of signature matrix:  [23, 133, 214, 21, 17, 260, 3, 143, 98, 9] 
+
+	(a) 11  Candidate hospital_pk:  420078
+	(b) Jaccard similarity with the target hospital:  0.2556390977443609
+	(c) First 10 values of signature matrix:  [96, 269, 152, 231, 10, 39, 70, 194, 35, 11] 
+
+	(a) 12  Candidate hospital_pk:  151327
+	(b) Jaccard similarity with the target hospital:  0.21705426356589147
+	(c) First 10 values of signature matrix:  [54, 76, 42, 46, 74, 417, 8, 18, 66, 28] 
+
+	(a) 13  Candidate hospital_pk:  210032
+	(b) Jaccard similarity with the target hospital:  0.23076923076923078
+	(c) First 10 values of signature matrix:  [0, 23, 128, 39, 36, 79, 43, 17, 21, 226] 
+
+	(a) 14  Candidate hospital_pk:  500025
+	(b) Jaccard similarity with the target hospital:  0.17142857142857143
+	(c) First 10 values of signature matrix:  [268, 90, 81, 300, 45, 46, 83, 0, 23, 207] 
+
+	(a) 15  Candidate hospital_pk:  450176
+	(b) Jaccard similarity with the target hospital:  0.23134328358208955
+	(c) First 10 values of signature matrix:  [67, 271, 39, 83, 33, 41, 289, 429, 270, 61] 
+
+	(a) 16  Candidate hospital_pk:  300014
+	(b) Jaccard similarity with the target hospital:  0.17777777777777778
+	(c) First 10 values of signature matrix:  [2, 7, 39, 73, 226, 122, 108, 5, 2, 161] 
+
+	(a) 17  Candidate hospital_pk:  241322
+	(b) Jaccard similarity with the target hospital:  0.21481481481481482
+	(c) First 10 values of signature matrix:  [158, 100, 28, 294, 31, 6, 67, 212, 69, 135] 
+
+	(a) 18  Candidate hospital_pk:  450324
+	(b) Jaccard similarity with the target hospital:  0.24793388429752067
+	(c) First 10 values of signature matrix:  [59, 19, 46, 102, 22, 18, 25, 38, 77, 93] 
+
+	(a) 19  Candidate hospital_pk:  450678
+	(b) Jaccard similarity with the target hospital:  0.22388059701492538
+	(c) First 10 values of signature matrix:  [140, 2, 8, 172, 37, 367, 92, 34, 276, 44] 
+
+	(a) 20  Candidate hospital_pk:  161309
+	(b) Jaccard similarity with the target hospital:  0.25384615384615383
+	(c) First 10 values of signature matrix:  [10, 67, 24, 98, 39, 58, 164, 38, 37, 2] 
+
+Hospital_pk:  330231
+	(a) 1  Candidate hospital_pk:  131312
+	(b) Jaccard similarity with the target hospital:  0.19117647058823528
+	(c) First 10 values of signature matrix:  [175, 55, 11, 109, 58, 38, 72, 53, 43, 2] 
+
+	(a) 2  Candidate hospital_pk:  150034
+	(b) Jaccard similarity with the target hospital:  0.232
+	(c) First 10 values of signature matrix:  [33, 45, 22, 378, 84, 2, 30, 60, 47, 9] 
+
+	(a) 3  Candidate hospital_pk:  050739
+	(b) Jaccard similarity with the target hospital:  0.15942028985507245
+	(c) First 10 values of signature matrix:  [63, 3, 24, 69, 67, 94, 15, 84, 76, 230] 
+
+	(a) 4  Candidate hospital_pk:  330194
+	(b) Jaccard similarity with the target hospital:  0.13768115942028986
+	(c) First 10 values of signature matrix:  [72, 129, 121, 49, 119, 36, 27, 6, 58, 163] 
+
+	(a) 5  Candidate hospital_pk:  100051
+	(b) Jaccard similarity with the target hospital:  0.22556390977443608
+	(c) First 10 values of signature matrix:  [196, 120, 109, 12, 57, 68, 43, 128, 136, 100] 
+
+	(a) 6  Candidate hospital_pk:  451366
+	(b) Jaccard similarity with the target hospital:  0.21374045801526717
+	(c) First 10 values of signature matrix:  [12, 163, 18, 13, 151, 25, 61, 17, 31, 174] 
+
+	(a) 7  Candidate hospital_pk:  400125
+	(b) Jaccard similarity with the target hospital:  0.2028985507246377
+	(c) First 10 values of signature matrix:  [130, 334, 148, 121, 69, 79, 521, 15, 489, 79] 
+
+	(a) 8  Candidate hospital_pk:  140103
+	(b) Jaccard similarity with the target hospital:  0.2459016393442623
+	(c) First 10 values of signature matrix:  [0, 208, 17, 271, 58, 87, 84, 61, 16, 21] 
+
+	(a) 9  Candidate hospital_pk:  421301
+	(b) Jaccard similarity with the target hospital:  0.17391304347826086
+	(c) First 10 values of signature matrix:  [52, 446, 21, 86, 46, 114, 54, 16, 113, 270] 
+
+	(a) 10  Candidate hospital_pk:  650003
+	(b) Jaccard similarity with the target hospital:  0.21481481481481482
+	(c) First 10 values of signature matrix:  [196, 179, 178, 57, 68, 225, 117, 156, 36, 88] 
+
+	(a) 11  Candidate hospital_pk:  050152
+	(b) Jaccard similarity with the target hospital:  0.21804511278195488
+	(c) First 10 values of signature matrix:  [20, 149, 44, 36, 82, 69, 227, 87, 76, 89] 
+
+	(a) 12  Candidate hospital_pk:  440009
+	(b) Jaccard similarity with the target hospital:  0.19548872180451127
+	(c) First 10 values of signature matrix:  [136, 59, 33, 23, 21, 42, 30, 1, 28, 137] 
+
+	(a) 13  Candidate hospital_pk:  151327
+	(b) Jaccard similarity with the target hospital:  0.2014388489208633
+	(c) First 10 values of signature matrix:  [14, 64, 95, 37, 57, 12, 114, 207, 179, 79] 
+
+	(a) 14  Candidate hospital_pk:  110045
+	(b) Jaccard similarity with the target hospital:  0.21481481481481482
+	(c) First 10 values of signature matrix:  [36, 34, 100, 24, 144, 164, 112, 111, 4, 43] 
+
+	(a) 15  Candidate hospital_pk:  500025
+	(b) Jaccard similarity with the target hospital:  0.24193548387096775
+	(c) First 10 values of signature matrix:  [227, 0, 42, 65, 48, 28, 11, 113, 75, 86] 
+
+	(a) 16  Candidate hospital_pk:  450176
+	(b) Jaccard similarity with the target hospital:  0.22794117647058823
+	(c) First 10 values of signature matrix:  [2, 135, 157, 0, 127, 121, 138, 206, 82, 149] 
+
+	(a) 17  Candidate hospital_pk:  300014
+	(b) Jaccard similarity with the target hospital:  0.24427480916030533
+	(c) First 10 values of signature matrix:  [59, 222, 109, 66, 234, 34, 195, 74, 214, 20] 
+
+	(a) 18  Candidate hospital_pk:  450324
+	(b) Jaccard similarity with the target hospital:  0.2222222222222222
+	(c) First 10 values of signature matrix:  [88, 45, 1, 72, 75, 48, 5, 101, 23, 46] 
+
+	(a) 19  Candidate hospital_pk:  450678
+	(b) Jaccard similarity with the target hospital:  0.1310344827586207
+	(c) First 10 values of signature matrix:  [130, 35, 15, 4, 14, 27, 138, 110, 396, 133] 
+
+	(a) 20  Candidate hospital_pk:  161377
+	(b) Jaccard similarity with the target hospital:  0.2028985507246377
+	(c) First 10 values of signature matrix:  [158, 276, 66, 21, 92, 17, 50, 185, 58, 7] 
+
+Hospital_pk:  241326
+	(a) 1  Candidate hospital_pk:  131312
+	(b) Jaccard similarity with the target hospital:  0.2283464566929134
+	(c) First 10 values of signature matrix:  [0, 293, 16, 81, 19, 87, 66, 44, 71, 164] 
+
+	(a) 2  Candidate hospital_pk:  150034
+	(b) Jaccard similarity with the target hospital:  0.2540983606557377
+	(c) First 10 values of signature matrix:  [25, 142, 59, 299, 0, 123, 19, 73, 60, 41] 
+
+	(a) 3  Candidate hospital_pk:  050739
+	(b) Jaccard similarity with the target hospital:  0.16546762589928057
+	(c) First 10 values of signature matrix:  [91, 4, 354, 42, 91, 1, 2, 4, 206, 13] 
+
+	(a) 4  Candidate hospital_pk:  330194
+	(b) Jaccard similarity with the target hospital:  0.13194444444444445
+	(c) First 10 values of signature matrix:  [27, 123, 99, 10, 97, 234, 53, 26, 27, 1] 
+
+	(a) 5  Candidate hospital_pk:  100051
+	(b) Jaccard similarity with the target hospital:  0.2196969696969697
+	(c) First 10 values of signature matrix:  [167, 62, 135, 50, 9, 149, 101, 86, 177, 72] 
+
+	(a) 6  Candidate hospital_pk:  451366
+	(b) Jaccard similarity with the target hospital:  0.1956521739130435
+	(c) First 10 values of signature matrix:  [271, 136, 18, 26, 17, 51, 76, 104, 98, 35] 
+
+	(a) 7  Candidate hospital_pk:  400125
+	(b) Jaccard similarity with the target hospital:  0.16428571428571428
+	(c) First 10 values of signature matrix:  [95, 36, 70, 108, 9, 169, 316, 39, 97, 327] 
+
+	(a) 8  Candidate hospital_pk:  140103
+	(b) Jaccard similarity with the target hospital:  0.25210084033613445
+	(c) First 10 values of signature matrix:  [10, 11, 24, 79, 3, 82, 2, 23, 75, 29] 
+
+	(a) 9  Candidate hospital_pk:  421301
+	(b) Jaccard similarity with the target hospital:  0.1095890410958904
+	(c) First 10 values of signature matrix:  [44, 166, 42, 85, 67, 109, 32, 189, 167, 13] 
+
+	(a) 10  Candidate hospital_pk:  650003
+	(b) Jaccard similarity with the target hospital:  0.234375
+	(c) First 10 values of signature matrix:  [435, 100, 83, 9, 48, 31, 17, 41, 205, 200] 
+
+	(a) 11  Candidate hospital_pk:  050152
+	(b) Jaccard similarity with the target hospital:  0.2421875
+	(c) First 10 values of signature matrix:  [19, 66, 3, 34, 260, 4, 68, 0, 124, 90] 
+
+	(a) 12  Candidate hospital_pk:  440009
+	(b) Jaccard similarity with the target hospital:  0.14084507042253522
+	(c) First 10 values of signature matrix:  [27, 11, 169, 203, 131, 54, 83, 82, 111, 131] 
+
+	(a) 13  Candidate hospital_pk:  151327
+	(b) Jaccard similarity with the target hospital:  0.2248062015503876
+	(c) First 10 values of signature matrix:  [114, 61, 59, 143, 120, 67, 195, 5, 18, 9] 
+
+	(a) 14  Candidate hospital_pk:  110045
+	(b) Jaccard similarity with the target hospital:  0.23076923076923078
+	(c) First 10 values of signature matrix:  [257, 19, 12, 118, 67, 164, 131, 30, 161, 141] 
+
+	(a) 15  Candidate hospital_pk:  210032
+	(b) Jaccard similarity with the target hospital:  0.2459016393442623
+	(c) First 10 values of signature matrix:  [10, 256, 44, 27, 271, 38, 215, 239, 286, 35] 
+
+	(a) 16  Candidate hospital_pk:  450176
+	(b) Jaccard similarity with the target hospital:  0.16058394160583941
+	(c) First 10 values of signature matrix:  [191, 270, 27, 37, 119, 50, 46, 127, 21, 22] 
+
+	(a) 17  Candidate hospital_pk:  300014
+	(b) Jaccard similarity with the target hospital:  0.17142857142857143
+	(c) First 10 values of signature matrix:  [225, 132, 126, 157, 258, 164, 197, 0, 111, 271] 
+
+	(a) 18  Candidate hospital_pk:  450324
+	(b) Jaccard similarity with the target hospital:  0.22764227642276422
+	(c) First 10 values of signature matrix:  [34, 47, 34, 24, 25, 27, 103, 69, 33, 293] 
+
+	(a) 19  Candidate hospital_pk:  450678
+	(b) Jaccard similarity with the target hospital:  0.2248062015503876
+	(c) First 10 values of signature matrix:  [59, 17, 197, 338, 77, 113, 73, 226, 102, 68] 
+
+	(a) 20  Candidate hospital_pk:  161309
+	(b) Jaccard similarity with the target hospital:  0.2283464566929134
+	(c) First 10 values of signature matrix:  [17, 442, 300, 19, 101, 26, 82, 12, 85, 49] 
+
+Hospital_pk:  070008
+	(a) 1  Candidate hospital_pk:  150034
+	(b) Jaccard similarity with the target hospital:  0.18461538461538463
+	(c) First 10 values of signature matrix:  [13, 49, 49, 46, 6, 90, 2, 42, 27, 24] 
+
+	(a) 2  Candidate hospital_pk:  330194
+	(b) Jaccard similarity with the target hospital:  0.18382352941176472
+	(c) First 10 values of signature matrix:  [224, 168, 113, 42, 92, 53, 61, 47, 68, 56] 
+
+	(a) 3  Candidate hospital_pk:  451366
+	(b) Jaccard similarity with the target hospital:  0.22137404580152673
+	(c) First 10 values of signature matrix:  [47, 49, 78, 174, 140, 5, 40, 53, 21, 24] 
+
+	(a) 4  Candidate hospital_pk:  400125
+	(b) Jaccard similarity with the target hospital:  0.1893939393939394
+	(c) First 10 values of signature matrix:  [3, 46, 253, 47, 10, 58, 163, 115, 35, 59] 
+
+	(a) 5  Candidate hospital_pk:  140103
+	(b) Jaccard similarity with the target hospital:  0.25196850393700787
+	(c) First 10 values of signature matrix:  [31, 79, 2, 7, 309, 13, 24, 88, 37, 23] 
+
+	(a) 6  Candidate hospital_pk:  421301
+	(b) Jaccard similarity with the target hospital:  0.17857142857142858
+	(c) First 10 values of signature matrix:  [89, 84, 133, 30, 21, 31, 9, 115, 115, 3] 
+
+	(a) 7  Candidate hospital_pk:  650003
+	(b) Jaccard similarity with the target hospital:  0.16666666666666666
+	(c) First 10 values of signature matrix:  [51, 45, 14, 17, 212, 13, 109, 40, 28, 155] 
+
+	(a) 8  Candidate hospital_pk:  050152
+	(b) Jaccard similarity with the target hospital:  0.16030534351145037
+	(c) First 10 values of signature matrix:  [80, 21, 17, 57, 9, 111, 7, 41, 18, 22] 
+
+	(a) 9  Candidate hospital_pk:  440009
+	(b) Jaccard similarity with the target hospital:  0.14084507042253522
+	(c) First 10 values of signature matrix:  [209, 15, 24, 72, 85, 56, 294, 165, 16, 60] 
+
+	(a) 10  Candidate hospital_pk:  110045
+	(b) Jaccard similarity with the target hospital:  0.21641791044776118
+	(c) First 10 values of signature matrix:  [176, 22, 22, 175, 155, 139, 120, 3, 13, 99] 
+
+	(a) 11  Candidate hospital_pk:  210032
+	(b) Jaccard similarity with the target hospital:  0.171875
+	(c) First 10 values of signature matrix:  [90, 46, 242, 35, 76, 50, 32, 263, 30, 4] 
+
+	(a) 12  Candidate hospital_pk:  500025
+	(b) Jaccard similarity with the target hospital:  0.2265625
+	(c) First 10 values of signature matrix:  [3, 41, 42, 34, 178, 6, 57, 141, 2, 30] 
+
+	(a) 13  Candidate hospital_pk:  450176
+	(b) Jaccard similarity with the target hospital:  0.23880597014925373
+	(c) First 10 values of signature matrix:  [63, 282, 409, 56, 60, 167, 124, 427, 141, 117] 
+
+	(a) 14  Candidate hospital_pk:  300014
+	(b) Jaccard similarity with the target hospital:  0.2
+	(c) First 10 values of signature matrix:  [51, 39, 57, 76, 1, 168, 337, 128, 87, 4] 
+
+	(a) 15  Candidate hospital_pk:  241322
+	(b) Jaccard similarity with the target hospital:  0.18181818181818182
+	(c) First 10 values of signature matrix:  [16, 97, 82, 92, 105, 160, 11, 125, 71, 121] 
+
+	(a) 16  Candidate hospital_pk:  450324
+	(b) Jaccard similarity with the target hospital:  0.203125
+	(c) First 10 values of signature matrix:  [74, 0, 140, 14, 247, 76, 4, 3, 23, 57] 
+
+	(a) 17  Candidate hospital_pk:  450678
+	(b) Jaccard similarity with the target hospital:  0.18571428571428572
+	(c) First 10 values of signature matrix:  [0, 175, 173, 239, 54, 104, 154, 62, 50, 15] 
+
+	(a) 18  Candidate hospital_pk:  161309
+	(b) Jaccard similarity with the target hospital:  0.21705426356589147
+	(c) First 10 values of signature matrix:  [70, 41, 14, 43, 10, 172, 85, 141, 47, 17] 
+
+	(a) 19  Candidate hospital_pk:  111328
+	(b) Jaccard similarity with the target hospital:  0.17518248175182483
+	(c) First 10 values of signature matrix:  [134, 30, 131, 16, 185, 118, 57, 23, 107, 75] 
+
+	(a) 20  Candidate hospital_pk:  140137
+	(b) Jaccard similarity with the target hospital:  0.20930232558139536
+	(c) First 10 values of signature matrix:  [3, 3, 90, 197, 21, 251, 1, 58, 34, 179] 
